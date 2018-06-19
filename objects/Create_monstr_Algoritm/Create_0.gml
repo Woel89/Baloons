@@ -16,19 +16,19 @@ x_right=camera_get_view_width(view_camera[0])-50;
            money_minimum=4;
            for (i=0; i<=alti_k*global.money_maker_upgrade*money_minimum; i+=1)
            {
-           instance_create(random_range(30,x_right), random_range(15200,10000), Money_gold);
+           instance_create(random_range(30,x_right), random_range(15200,10000), Monster1);
            }
 	      //silver
 	       money_minimum=10;
            for (i=0; i<=alti_k*global.money_maker_upgrade*money_minimum; i+=1)
            {
-           instance_create(random_range(30,x_right), random_range(15200,10000), Money_silver);
+           instance_create(random_range(30,x_right), random_range(15200,10000), Monster2);
            }
 		   //bronze
 	       money_minimum=20;
            for (i=0; i<=alti_k*global.money_maker_upgrade*money_minimum; i+=1)
            {
-           instance_create(random_range(30,x_right), random_range(15200,10000), Money_bronze);
+           instance_create(random_range(30,x_right), random_range(15200,10000), Monster3);
            }
 	   
 //alti y=10000-6000

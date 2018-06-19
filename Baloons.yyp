@@ -1399,6 +1399,22 @@
             }
         },
         {
+            "Key": "f9d43bab-be10-4fda-b8f1-19888595f207",
+            "Value": {
+                "id": "1eb1727d-5cc8-427c-a052-5f46aeefe6c9",
+                "resourcePath": "objects\\Monster3\\Monster3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fa9adc37-40eb-4ef5-b2fe-5e2dca64b785",
+            "Value": {
+                "id": "c621aa98-9f10-4e87-b606-525f4f8a77d0",
+                "resourcePath": "objects\\Monster2\\Monster2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "fae60fd2-8879-432e-87ef-826d96c9fbbb",
             "Value": {
                 "id": "eb679044-2738-4016-ba1d-c89a5ed40266",
