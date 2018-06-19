@@ -1,0 +1,110 @@
+Font coins has been converted to font family Shumi (Regular) - Font has been regenerated, small inconsistencies may occur
+!!! Font altitude font family Shumi is installed but couldn't match style - Font has NOT been regenerated
+Font Start_room has been converted to font family Shumi (Regular) - Font has been regenerated, small inconsistencies may occur
+!!! Font Start_room_back font family Shumi is installed but couldn't match style - Font has NOT been regenerated
+Font Upgrade has been converted to font family Shumi (Regular) - Font has been regenerated, small inconsistencies may occur
+!!! Font Upgrade_back font family Shumi is installed but couldn't match style - Font has NOT been regenerated
+Font Type_ugrade has been converted to font family Shumi (Regular) - Font has been regenerated, small inconsistencies may occur
+!!! Font Type_ugrade_back font family Shumi is installed but couldn't match style - Font has NOT been regenerated
+Resource name collision 'coin' already exists, renamed to 'coin_objects_Game_Object_coin'
+Resource name collision 'bush' already exists, renamed to 'bush_objects_Game_Envorument_ground'
+Resource name collision 'crate' already exists, renamed to 'crate_objects_Game_Envorument_ground'
+Resource name collision 'fence' already exists, renamed to 'fence_objects_Game_Envorument_ground'
+Resource name collision 'grass' already exists, renamed to 'grass_objects_Game_Envorument_ground'
+Resource name collision 'ground' already exists, renamed to 'ground_objects_Game_Envorument_ground'
+Resource name collision 'ground_cave' already exists, renamed to 'ground_cave_objects_Game_Envorument_ground'
+Resource name collision 'hill_short' already exists, renamed to 'hill_short_objects_Game_Envorument_ground'
+Resource name collision 'rock' already exists, renamed to 'rock_objects_Game_Envorument_ground'
+Resource name collision 'Monster_Fly' already exists, renamed to 'Monster_Fly_objects_Game_Monster'
+Resource name collision 'Right' already exists, renamed to 'Right_objects_Game_Buttons'
+Resource name collision 'Left' already exists, renamed to 'Left_objects_Game_Buttons'
+Converting GML script: ${project_dir}\objects\Trigger_interface3\Draw_0.gml
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface3\Draw_0.gml - 83: Got 'gas' (id) expected ',' or ')'
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface3\Draw_0.gml - 84: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface3\Draw_0.gml - 90: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface3\Draw_0.gml - 118: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface3\Draw_0.gml - 124: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface3\Draw_0.gml - 152: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface3\Draw_0.gml - 158: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface3\Draw_0.gml - 186: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface3\Draw_0.gml - 192: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface3\Draw_0.gml - 221: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface3\Draw_0.gml - 227: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\objects\Trigger_interface3\Draw_0.gml
+
+Resource name collision 'Button - blue' already exists, renamed to 'Button - blue_objects_Upgrade room_Buttons'
+Converting GML script: ${project_dir}\objects\Button - blue_objects_Upgrade room_Buttons\Mouse_4.gml
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Button - blue_objects_Upgrade room_Buttons\Mouse_4.gml - 1: Got 'room' (id) expected ',' or ')'
+Too many errors - GML not processed : ${project_dir}\objects\Button - blue_objects_Upgrade room_Buttons\Mouse_4.gml
+
+Resource name collision 'achivments' already exists, renamed to 'achivments_objects_Start room_Buttons'
+Resource name collision 'shop' already exists, renamed to 'shop_objects_Start room_Buttons'
+Resource name collision 'Settings' already exists, renamed to 'Settings_objects_Start room_Buttons'
+Resource name collision 'Balloon_start' already exists, renamed to 'Balloon_start_objects_Start room'
+Converting GML script: ${project_dir}\objects\Trigger_interface\Keyboard_1.gml
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface\Keyboard_1.gml - 1: Got 'room' (id) expected ',' or ')'
+Too many errors - GML not processed : ${project_dir}\objects\Trigger_interface\Keyboard_1.gml
+
+Resource name collision 'Upgrade' already exists, renamed to 'Upgrade_rooms'
+Resource name collision 'Settings' already exists, renamed to 'Settings_rooms'
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Resource name collision 'coin_silver' already exists, renamed to 'coin_silver_objects_Game_Object_coin'
+Resource name collision 'coin_gold' already exists, renamed to 'coin_gold_objects_Game_Object_coin'
+Resource name collision 'coin_bronze' already exists, renamed to 'coin_bronze_objects_Game_Object_coin'
+Resource name collision 'Hearts' already exists, renamed to 'Hearts_objects_Game_Hearts'
+Converting GML script: ${project_dir}\objects\Trigger_interface2\Draw_0.gml
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface2\Draw_0.gml - 14: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface2\Draw_0.gml - 16: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface2\Draw_0.gml - 24: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface2\Draw_0.gml - 32: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface2\Draw_0.gml - 40: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface2\Draw_0.gml - 48: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface2\Draw_0.gml - 56: unexpected syntax error
+ERROR: C:\Program Files (x86)\Game_Maker8\Examples\Examples (2)\baloon distance\objects\Trigger_interface2\Draw_0.gml - 64: unexpected syntax error
+Too many errors - GML not processed : ${project_dir}\objects\Trigger_interface2\Draw_0.gml
+
+Converting GML script: ${project_dir}\objects\Trigger_background\Create_0.gml
+Converted builtin - line 2: background_vspeed[1] -> __background_get( e__BG.VSpeed, 1 )
+
+Missing audiogroup for sound: 'sound0_251461__joshuaempyre__arcade-music-loop' - setting to default audio group
+Missing audiogroup for sound: 'sound1_367160__frankum__electrobeep-track-loop' - setting to default audio group
+Missing audiogroup for sound: 'sound3_273539__tristan-lohengrin__8bit-introduction' - setting to default audio group
+Missing audiogroup for sound: 'sound4_341232__sharesynth__kick00' - setting to default audio group
+Missing audiogroup for sound: 'sound6_336933__shnur__coin4' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_color.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_create_object_random.gml'
+Added compatibility script 'action/action_draw_rectangle.gml'
+Added compatibility script 'action/action_draw_sprite.gml'
+Added compatibility script 'action/action_draw_text.gml'
+Added compatibility script 'action/action_draw_variable.gml'
+Added compatibility script 'action/action_end_sound.gml'
+Added compatibility script 'action/action_font.gml'
+Added compatibility script 'action/action_if.gml'
+Added compatibility script 'action/action_if_life.gml'
+Added compatibility script 'action/action_if_mouse.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_path.gml'
+Added compatibility script 'action/action_reverse_xdir.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_hspeed.gml'
+Added compatibility script 'action/action_set_life.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'action/action_set_vspeed.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/action_sprite_set.gml'
+Added compatibility script 'background/__background_get.gml'
+Added compatibility script 'background/__background_get_element.gml'
+Added compatibility script 'background/__background_get_internal.gml'
+Added compatibility script 'background/__background_set_element.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'background/__init_background.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
