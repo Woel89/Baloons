@@ -9,7 +9,7 @@
         "103ca258-a242-4710-8951-f24e3ea0f364"
     ],
     "filterType": "GMSprite",
-    "folderName": "bird",
+    "folderName": "angry bird",
     "isDefaultView": false,
     "localisedFolderName": ""
 }
