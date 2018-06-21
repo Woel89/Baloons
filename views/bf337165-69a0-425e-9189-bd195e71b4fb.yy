@@ -6,7 +6,8 @@
     "children": [
         "4452e5b9-bc38-4e71-a02d-df32d0a5c55f",
         "746f73a2-421d-4c2a-abe7-8edd054587b2",
-        "5a955ab7-a93e-42e9-82ca-84ed088fc0b3"
+        "5a955ab7-a93e-42e9-82ca-84ed088fc0b3",
+        "9a0a5e49-086e-4cf1-803e-6c86eb561674"
     ],
     "filterType": "GMObject",
     "folderName": "money",

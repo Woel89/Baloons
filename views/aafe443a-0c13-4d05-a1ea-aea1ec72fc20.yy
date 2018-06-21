@@ -6,8 +6,7 @@
     "children": [
         "e8114f30-2646-4d63-8652-50ed0c96a979",
         "d1cda603-14fe-4e66-acda-72583d235744",
-        "c4c69f08-7951-45bb-b4be-06413aa00c75",
-        "30863454-b1d2-4c9a-b2dc-de7724b2a9b6"
+        "c4c69f08-7951-45bb-b4be-06413aa00c75"
     ],
     "filterType": "GMSprite",
     "folderName": "coin",
