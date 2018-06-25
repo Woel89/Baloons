@@ -1,10 +1,19 @@
 {
-    "id": "de639173-dc89-40d2-bdac-e4df0588519c",
+    "id": "996facd7-d2b9-4d74-a35b-1400cec0cd1d",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Monster3_2",
+    "name": "Create_monstr_Algoritm1",
     "eventList": [
-        
+        {
+            "id": "cc4dc2db-0859-49a6-98cb-30b6438b35cd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "996facd7-d2b9-4d74-a35b-1400cec0cd1d"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "accb4f6f-9442-459e-b4ed-1034233eb956",
+    "spriteId": "00000000-0000-0000-0000-000000000000",
     "visible": true
 }

@@ -36,6 +36,17 @@ y=camera_get_view_y(view_camera[0])+1;
 if y>(camera_get_view_y(view_camera[0])+camera_get_view_height(view_camera[0])-50)
 y=(camera_get_view_y(view_camera[0]))+camera_get_view_height(view_camera[0]) - 51;
 
+//Collision with monsters
+if (global.godmode==0){
+time = date_current_datetime();}
+if (global.godmode==1)
+{	sprite_index=Baloon_blink;
+	if (date_second_span(time, date_current_datetime()) > 5) 
+	{
+	sprite_index=Baloon_red;
+	global.godmode=0;
+	} 
 
+}
 
 // You can write your code in this editor

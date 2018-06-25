@@ -1,8 +1,8 @@
 {
-    "id": "de639173-dc89-40d2-bdac-e4df0588519c",
+    "id": "7811fc6a-4f27-491f-982d-ac17bce11c61",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Monster3_2",
+    "name": "Clouds3",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "accb4f6f-9442-459e-b4ed-1034233eb956",
+    "spriteId": "ea5cde5d-b8b6-4dcc-ac1e-449d105a0721",
     "visible": true
 }

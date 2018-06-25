@@ -335,6 +335,14 @@
             }
         },
         {
+            "Key": "2f016e44-9a78-4569-b099-1ccc2aa9fbe7",
+            "Value": {
+                "id": "1751b52e-27f7-4cff-a3d6-2be2207dec0a",
+                "resourcePath": "views\\2f016e44-9a78-4569-b099-1ccc2aa9fbe7.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "2fbad4d2-74dd-4851-ae62-3b71c62ddb5f",
             "Value": {
                 "id": "c52548ae-b7ca-484d-85fc-13ab2accf367",
@@ -751,6 +759,14 @@
             }
         },
         {
+            "Key": "7811fc6a-4f27-491f-982d-ac17bce11c61",
+            "Value": {
+                "id": "86603f74-0bd2-40be-8501-be0b362ef25f",
+                "resourcePath": "objects\\Clouds3\\Clouds3.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "794565d7-95b8-4a94-8c86-0c550a2ae367",
             "Value": {
                 "id": "f3f4090b-8dd9-4818-a08c-6d041319b160",
@@ -879,6 +895,14 @@
             }
         },
         {
+            "Key": "9254f121-7416-4592-b53a-29ba06569dff",
+            "Value": {
+                "id": "7273b020-ba9f-4401-b8fb-72a10efb62ac",
+                "resourcePath": "sprites\\Bee_right\\Bee_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "93fdea95-781e-44ee-be10-df184b719ac6",
             "Value": {
                 "id": "45092303-5219-46e4-bdfe-96fccd9a4cf7",
@@ -938,7 +962,7 @@
             "Key": "996facd7-d2b9-4d74-a35b-1400cec0cd1d",
             "Value": {
                 "id": "c494cba1-3584-4a35-8133-9e68b55dc0b0",
-                "resourcePath": "objects\\Create_monstr_Algoritm\\Create_monstr_Algoritm.yy",
+                "resourcePath": "objects\\Create_monstr_Algoritm1\\Create_monstr_Algoritm1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1044,6 +1068,14 @@
                 "id": "2749c5d8-0b01-4a2a-be26-525929c1a13f",
                 "resourcePath": "sprites\\shop\\shop.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a56ddc27-71bc-4504-9be3-4698e632d391",
+            "Value": {
+                "id": "1f32f4fd-87bd-4b8d-b161-578d4e6cbe3d",
+                "resourcePath": "objects\\Clouds2\\Clouds2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1490,7 +1522,7 @@
             "Key": "e6912e1d-8750-46bb-a435-ceb533e67e94",
             "Value": {
                 "id": "611e0056-0ccb-4470-94c0-0280db2501ae",
-                "resourcePath": "objects\\Clouds\\Clouds.yy",
+                "resourcePath": "objects\\Clouds1\\Clouds1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1674,7 +1706,7 @@
             "Key": "f8cb2f10-0357-4d1a-968e-4d77ca2fc087",
             "Value": {
                 "id": "e38ae0e2-5438-41b7-a206-2bb8832caed0",
-                "resourcePath": "sprites\\Bee\\Bee.yy",
+                "resourcePath": "sprites\\Bee_left\\Bee_left.yy",
                 "resourceType": "GMSprite"
             }
         },

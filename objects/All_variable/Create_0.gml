@@ -30,4 +30,6 @@ global.Altitudetext_front_cloour = c_orange
 	  global.max_vspeed_ballon=4;
 	  //upgrades
 	  global.money_maker_upgrade=1;
+	  //God mode
+	  global.godmode=0;
 	  

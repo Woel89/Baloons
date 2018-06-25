@@ -1,8 +1,8 @@
 {
-    "id": "e6912e1d-8750-46bb-a435-ceb533e67e94",
+    "id": "a56ddc27-71bc-4504-9be3-4698e632d391",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Clouds",
+    "name": "Clouds2",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f8cb2f10-0357-4d1a-968e-4d77ca2fc087",
+    "spriteId": "b11a2656-5d57-429d-8e69-f0befcd4a689",
     "visible": true
 }
