@@ -33,3 +33,6 @@ y-=2.5;
 time2=0;
 up_y=1;
 }
+//destroy object
+if (y>global.cam_y+camera_get_view_height(view_camera[0])) {
+instance_destroy();}

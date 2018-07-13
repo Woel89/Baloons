@@ -1,4 +1,5 @@
 /// @description Insert description here
+
 global.Remember_Flag = 0;
 
 // camera that follows the player
