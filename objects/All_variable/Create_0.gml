@@ -30,11 +30,8 @@ global.Altitudetext_front_cloour = c_orange
 	  global.max_hspeed_ballon=6;
 	  global.max_vspeed_ballon=6;
 	  //upgrades
+	  global.monster_maker_upgrade=1;
 	  global.money_maker_upgrade=1;
-	  global.monstr_1_maker_upgrade=1;
-	  global.monstr_2_maker_upgrade=1;
-	  global.monstr_3_maker_upgrade=1;
-	  global.monstr_4_maker_upgrade=1;
 	  //God mode
 	  global.godmode=0;
 	  

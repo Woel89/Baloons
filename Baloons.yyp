@@ -546,7 +546,7 @@
             "Key": "51e08413-1301-48e1-8a2a-386c30c695c5",
             "Value": {
                 "id": "8a03f3b9-7f7f-41f2-ad45-9c0a556ba8f6",
-                "resourcePath": "sprites\\Drone_1\\Drone_1.yy",
+                "resourcePath": "sprites\\Drone_stop\\Drone_stop.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -884,6 +884,14 @@
                 "id": "fcf0cab1-4979-4477-ab93-1831eefdc753",
                 "resourcePath": "fonts\\Upgrade_back\\Upgrade_back.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "8cf1617d-853a-433e-9f91-966bd7b985e4",
+            "Value": {
+                "id": "5998d2b7-6277-448b-85de-ec4048da266d",
+                "resourcePath": "views\\8cf1617d-853a-433e-9f91-966bd7b985e4.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -1535,6 +1543,14 @@
             }
         },
         {
+            "Key": "de6def20-f6c4-43a3-bf15-2ffaed847784",
+            "Value": {
+                "id": "187c9147-d359-4438-9af1-4c90a374f04f",
+                "resourcePath": "sprites\\Drone_right\\Drone_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e06ddbe4-0a73-4821-950f-659ffe6e8d34",
             "Value": {
                 "id": "1ecf28c5-eae1-42fc-a6f8-2857e9c85588",
@@ -1684,6 +1700,14 @@
                 "id": "2004b320-a088-4b8a-926a-f7df3dcd6fc8",
                 "resourcePath": "views\\eb4cb98d-eafd-43ec-9aef-7f3edc7467fd.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ecab28e5-ac16-4063-b082-c648abc8ea40",
+            "Value": {
+                "id": "48dbc0b8-71fe-41c1-a3f6-6f05f6ba26fb",
+                "resourcePath": "sprites\\Drone_left\\Drone_left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
