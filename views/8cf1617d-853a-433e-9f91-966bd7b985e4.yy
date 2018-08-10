@@ -4,9 +4,9 @@
     "mvc": "1.1",
     "name": "8cf1617d-853a-433e-9f91-966bd7b985e4",
     "children": [
-        "51e08413-1301-48e1-8a2a-386c30c695c5",
-        "ecab28e5-ac16-4063-b082-c648abc8ea40",
-        "de6def20-f6c4-43a3-bf15-2ffaed847784"
+        "fb983ea8-a05c-476a-98de-41307e94bf49",
+        "d2b43149-1990-46fe-a6ab-6540ea21f689",
+        "063c1c6f-52e2-4965-8381-ee7bffd8f1e7"
     ],
     "filterType": "GMSprite",
     "folderName": "Drone",

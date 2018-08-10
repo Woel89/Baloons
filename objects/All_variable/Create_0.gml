@@ -22,13 +22,13 @@ global.Altitudetext_front_cloour = c_orange
 
 //Game room
       //Speed move up Cam 
-      global.vspeed_cam = 3;
+      global.vspeed_cam = 6;
 	  global.cam_y=0;
 	  //lives
 	  global.livess=3;
 	  //Max speed baloon
-	  global.max_hspeed_ballon=6;
-	  global.max_vspeed_ballon=6;
+	  global.max_hspeed_ballon=10;
+	  global.max_vspeed_ballon=10;
 	  //upgrades
 	  global.monster_maker_upgrade=1;
 	  global.money_maker_upgrade=1;
