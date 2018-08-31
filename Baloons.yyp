@@ -610,7 +610,7 @@
             "Key": "5821084e-c843-42b4-b75d-f66bd3e50875",
             "Value": {
                 "id": "db40a770-3d3d-45b6-99a6-df804decced3",
-                "resourcePath": "sprites\\Eagle\\Eagle.yy",
+                "resourcePath": "sprites\\Eagle_right\\Eagle_right.yy",
                 "resourceType": "GMSprite"
             }
         },

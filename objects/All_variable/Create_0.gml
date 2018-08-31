@@ -22,7 +22,7 @@ global.Altitudetext_front_cloour = c_orange
 
 //Game room
       //Speed move up Cam 
-      global.vspeed_cam = 6;
+      global.vspeed_cam = 2;
 	  global.cam_y=0;
 	  //lives
 	  global.livess=3;

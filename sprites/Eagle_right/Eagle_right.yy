@@ -2,7 +2,7 @@
     "id": "5821084e-c843-42b4-b75d-f66bd3e50875",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "Eagle",
+    "name": "Eagle_right",
     "For3D": false,
     "HTile": false,
     "VTile": false,

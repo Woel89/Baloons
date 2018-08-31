@@ -8,7 +8,7 @@ time4 = (time4/global.monster_maker_upgrade)+1;
  //------------------уровень1----------------- 
  if (global.cam_y>10000 && global.cam_y<15200){
    //Пчела
-if (time1>100)
+if (time1>10)
 {
 	instance_create(random_range(0,x_right), global.cam_y-100, Monster1_1);
 	time1=0;

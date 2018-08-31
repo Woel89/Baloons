@@ -1,7 +1,13 @@
 
 //Left right move
 time += 1;
-if (left_move=0)
+if (rnd_left>=1 && flag==0)
+{left_move=0;
+flag=1;}
+else
+{left_move=1;
+flag=1;}
+if (left_move==0)
 	{x+=rnd_x;
 	sprite_index=Bee_right;}
 else {x-=rnd_x;
