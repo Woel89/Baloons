@@ -1,4 +1,4 @@
 
-left_move=random_range(0, 2);
-maxspeed=2;
-rnd_x=random_range(0.5, maxspeed);
+left_move=random_range(0, 3);
+maxspeed_x=2;
+maxspeed_y=2;

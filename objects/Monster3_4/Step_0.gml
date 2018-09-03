@@ -1,40 +1,42 @@
 
-//Left right move
+
 time += 1;
-if (left_move=0)
-	{x+=rnd_x;
-	sprite_index=Bee_right;}
-else {x-=rnd_x;
-	sprite_index=Bee_left;}
-
-// formula for equal distance all bees (rnd_x*50/maxspeed)
-
-if (time > rnd_x*400/maxspeed && left_move==0) 
-	{
-	time=0;
-	left_move=1;
-	} 
-
-if (time > rnd_x*400/maxspeed && left_move==1) 
-	{
-	time=0.0;
-	left_move=0;
-	} 
-	
-	// Up and down move
-time2 +=1;	
-if (time2>random_range(1, 3) && up_y==1){
-y+=2.5;
-time2=0;
-up_y=0;
+if (time<time_fly){
+	if yellow_col
+	sprite_index=Yellow_rocket;
+	if green_col
+	sprite_index=Green_rocket;
+	if red_col
+	sprite_index=Red_Rocket;
+	if violet_col
+	sprite_index=Violet_Rocket;
 }
-if (time2>random_range(1, 3) && up_y==0){
-y-=2.5;
-time2=0;
-up_y=1;
+if (time>time_fly){
+	if yellow_col
+	sprite_index=Yellow_FW;
+	if green_col
+	sprite_index=Green_FW;
+	if red_col
+	sprite_index=Red_FW;
+	if violet_col
+	sprite_index=Violet_FW;
 }
 
-
-//destroy object
-if (y>global.cam_y+camera_get_view_height(view_camera[0])) {
+if (time>time_fly+time_expl) {
 instance_destroy();}
+
+if (rnd_direct<1 && time<time_fly)
+	{x+=maxspeed_x;
+	y-=maxspeed_y;
+image_angle = 225;
+	}
+	if (rnd_direct>=1 &&  rnd_direct<2  && time<time_fly)
+	{y-=maxspeed_y+2;
+image_angle = 270;
+	}
+	if (rnd_direct>=2 && time<time_fly)
+	{x-=maxspeed_x;
+	y-=maxspeed_y;
+image_angle = 315;
+	}
+

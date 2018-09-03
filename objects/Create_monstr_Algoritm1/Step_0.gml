@@ -8,9 +8,10 @@ time4 = (time4/global.monster_maker_upgrade)+1;
  //------------------уровень1----------------- 
  if (global.cam_y>10000 && global.cam_y<15200){
    //Пчела
-if (time1>10)
+if (time1>40)
 {
 	instance_create(random_range(0,x_right), global.cam_y-100, Monster1_1);
+	
 	time1=0;
 }
 
@@ -74,7 +75,7 @@ time3=0;
 //Фейверк
        if (time4>100)
 {
-	instance_create(random_range(30,x_right), global.cam_y-100, Monster3_4);
+	instance_create(random_range(0,x_right), global.cam_y+camera_get_view_height(view_camera[0]), Monster3_4);
 time4=0;
 }
 }
@@ -101,7 +102,7 @@ time3=0;
 //Фейверк
     if (time4>100)
 {
-	instance_create(random_range(30,x_right), global.cam_y-100, Monster4_4);
+	instance_create(random_range(0,x_right), global.cam_y+camera_get_view_height(view_camera[0]), Monster3_4);
 time4=0;
 }
 }

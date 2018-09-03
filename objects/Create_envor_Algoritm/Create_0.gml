@@ -1,35 +1,14 @@
-/// @description Insert description here
 
-//______________________________
-
-//Cloud spam
-
-//_______________________________
-
-
-
+//Блинкер на создание монстров
+time1 = 0;
+time2 = 0;
+time3 = 0;
+time4 = 0;
+//разделение по уровням
+level1=1;
+level2=1;
+level3=1;
+level4=1;
+//ширинапечати
 x_right=camera_get_view_width(view_camera[0])-50;
 
-	  
-		   
-//alti y=10000-3000
-              alti_k=1.4;
-
-		   //GOLD
-           money_minimum=40;
-           for (i=0; i<=alti_k*global.money_maker_upgrade*money_minimum; i+=1)
-           {
-           instance_create(random_range(30,x_right), random_range(10000,3000), Money_gold);
-           }
-	      //silver
-	       money_minimum=10;
-           for (i=0; i<=alti_k*global.money_maker_upgrade*money_minimum; i+=1)
-           {
-           instance_create(random_range(30,x_right), random_range(10000,3000), Money_silver);
-           }
-		   //bronze
-	       money_minimum=4;
-           for (i=0; i<=alti_k*global.money_maker_upgrade*money_minimum; i+=1)
-           {
-           instance_create(random_range(30,x_right), random_range(10000,3000), Money_bronze);
-           }
