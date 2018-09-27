@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0553d05d-ac6b-4d9f-a65f-ce84e4dc2391",
+            "Value": {
+                "id": "fbc077bd-0dd9-4367-a5ad-dbd9eb87454d",
+                "resourcePath": "objects\\Upgrade_unit_More_Speed1\\Upgrade_unit_More_Speed1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "063c1c6f-52e2-4965-8381-ee7bffd8f1e7",
             "Value": {
                 "id": "4d8f3064-044b-4fd7-a8fe-7adc5e7360d4",
@@ -116,6 +124,14 @@
                 "id": "387aa505-0bf4-4b31-9326-bfe5a6b7afeb",
                 "resourcePath": "views\\10b33437-4580-4fc5-9cc4-bca4224dc225.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "116f13f5-7f22-4d19-bc78-149889104e8f",
+            "Value": {
+                "id": "7d8afd2d-707b-4199-bca1-ddb10a489a91",
+                "resourcePath": "objects\\Upgrade_unit_More_Money1\\Upgrade_unit_More_Money1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -567,6 +583,14 @@
             }
         },
         {
+            "Key": "4dbae394-d0e3-46b8-b1d6-891cbcc13b7a",
+            "Value": {
+                "id": "5a051aea-8221-487e-9db8-2622c62702c5",
+                "resourcePath": "fonts\\Type_ugrade_back_LVL\\Type_ugrade_back_LVL.yy",
+                "resourceType": "GMFont"
+            }
+        },
+        {
             "Key": "4ee82df7-9169-4736-ab00-b5bb9da2e629",
             "Value": {
                 "id": "bbb144fd-b200-4312-9521-3dc989e61045",
@@ -727,6 +751,14 @@
             }
         },
         {
+            "Key": "6e20640f-c4dc-4939-8a3c-67bdb4833bff",
+            "Value": {
+                "id": "c7493796-7c1b-4b2b-a7cc-0a7072eef3f9",
+                "resourcePath": "sprites\\Upgrade_unit\\Upgrade_unit.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6e93bd09-cda2-40b0-8caf-78a2c5b00a93",
             "Value": {
                 "id": "4d9dbc1e-86bb-47a0-bc8b-c19557f2c5d2",
@@ -748,6 +780,14 @@
                 "id": "e217ac3b-f1e0-4ef9-b4e1-453469c6e650",
                 "resourcePath": "views\\7001f9b7-2d1c-4df5-a3cf-dfbbe3d21e9c.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "713c60be-e75b-41de-8385-10d0198cd6e3",
+            "Value": {
+                "id": "c56dfd0e-3a75-48da-97e5-0c0db460bff7",
+                "resourcePath": "objects\\Upgrade_unit_Less_Monster1\\Upgrade_unit_Less_Monster1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -1471,6 +1511,14 @@
             }
         },
         {
+            "Key": "c67187c3-f115-4979-ad3b-40663992b74c",
+            "Value": {
+                "id": "dfc18f24-cff3-4385-8b7e-da43d695c65b",
+                "resourcePath": "objects\\Upgrade_unit_More_hearts1\\Upgrade_unit_More_hearts1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c8a1b90c-414e-40d9-b499-7f6c509d3c9d",
             "Value": {
                 "id": "827ab0d5-b001-4b6f-b428-2b9b71a77605",
@@ -1980,6 +2028,14 @@
                 "id": "9a7ff945-1654-4fb4-949b-32e335fe8119",
                 "resourcePath": "sprites\\Baloon_red\\Baloon_red.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fc6b39ec-6171-4ec7-b8e4-b0947841e325",
+            "Value": {
+                "id": "4bb954a2-fda9-41a0-8386-4ffb8bd0c512",
+                "resourcePath": "fonts\\Type_ugrade_LVL\\Type_ugrade_LVL.yy",
+                "resourceType": "GMFont"
             }
         },
         {

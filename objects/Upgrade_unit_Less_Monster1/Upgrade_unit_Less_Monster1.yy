@@ -1,38 +1,28 @@
 {
-    "id": "8358c50a-0721-460e-97f5-cfa78e394101",
+    "id": "713c60be-e75b-41de-8385-10d0198cd6e3",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Green_PL_Less_Monster",
+    "name": "Upgrade_unit_Less_Monster1",
     "eventList": [
         {
-            "id": "4dd53b8a-bffb-485f-bc91-c96990bf6bb4",
+            "id": "b31403ba-772b-41c0-b8f2-52b18041c6be",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "8358c50a-0721-460e-97f5-cfa78e394101"
+            "m_owner": "713c60be-e75b-41de-8385-10d0198cd6e3"
         },
         {
-            "id": "5eec7d18-ffb7-4161-b555-e739cedb367d",
+            "id": "4d33d3ee-c3af-4f99-80ea-d715643064b2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 6,
-            "m_owner": "8358c50a-0721-460e-97f5-cfa78e394101"
-        },
-        {
-            "id": "082c7aa1-870e-4ba0-8d97-2fe49f134321",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "8358c50a-0721-460e-97f5-cfa78e394101"
+            "eventtype": 8,
+            "m_owner": "713c60be-e75b-41de-8385-10d0198cd6e3"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -53,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "d1646d71-33d5-44ae-bac7-23cf017c1452",
+    "spriteId": "6e20640f-c4dc-4939-8a3c-67bdb4833bff",
     "visible": true
 }
