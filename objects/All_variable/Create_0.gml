@@ -26,6 +26,7 @@ global.Altitudetext_front_cloour = c_orange
 	  global.money_maker_upgrade=1;
 	  global.vspeed_cam = 1;
 	  global.livess=1;
+	  global.livess_rem=global.livess;
       //Speed move up Cam 
       global.cam_y=0;
 	  //Max speed baloon

@@ -4,7 +4,36 @@
     "mvc": "1.0",
     "name": "Green_PL_More_Speed",
     "eventList": [
-        
+        {
+            "id": "cdc8451c-c3ad-4d12-a59a-70b3bd78d00d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "bc45c59e-d5f2-4387-a47e-e80c34f85dbc"
+        },
+        {
+            "id": "191b62fd-d2e7-44e2-a65d-429a493eec57",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "bc45c59e-d5f2-4387-a47e-e80c34f85dbc"
+        },
+        {
+            "id": "f303b2b4-313d-4dc3-aa49-a1b42025270b",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "bc45c59e-d5f2-4387-a47e-e80c34f85dbc"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

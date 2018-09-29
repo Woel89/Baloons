@@ -4,7 +4,36 @@
     "mvc": "1.0",
     "name": "Upgrade_unit_More_Speed1",
     "eventList": [
-        
+        {
+            "id": "d5451e38-2575-4787-a61c-b743abcbe2d0",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "0553d05d-ac6b-4d9f-a65f-ce84e4dc2391"
+        },
+        {
+            "id": "7a9f9f49-ad00-464a-a117-f29bcf7a08f7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "0553d05d-ac6b-4d9f-a65f-ce84e4dc2391"
+        },
+        {
+            "id": "877a6a71-b723-4a8a-a57e-3ce248803db7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "0553d05d-ac6b-4d9f-a65f-ce84e4dc2391"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

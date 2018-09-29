@@ -4,10 +4,10 @@ draw_set_font(Type_ugrade_LVL);
 if (level_0)
 {draw_set_colour(global.Gamename_back_cloour);
 draw_text_transformed(x, y, "Next  level", 1.6, 1.6, 0);
-draw_text_transformed(x, y+22, " cost 2000", 1.6, 1.6, 0);
+draw_text_transformed(x, y+22, " cost 1800", 1.6, 1.6, 0);
 draw_set_colour(global.Gamename_front_cloour);
 draw_text_transformed(x-2, y, "Next  level", 1.6, 1.6, 0);
-draw_text_transformed(x-2, y+22, " cost 2000", 1.6, 1.6, 0);}
+draw_text_transformed(x-2, y+22, " cost 1800", 1.6, 1.6, 0);}
 if (level_1)
 {draw_set_colour(global.Gamename_back_cloour);
 draw_text_transformed(x, y, "Next  level", 1.6, 1.6, 0);

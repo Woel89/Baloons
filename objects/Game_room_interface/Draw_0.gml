@@ -7,30 +7,6 @@ alti = global.cam_y+Rem_mouse_y-Rem_cam_y;
 
 /// @DnDAction : YoYo Games.Mouse & Keyboard.If_Mouse_Down
 /// @DnDVersion : 1.1
-/// @DnDHash : 5427E437
-/// @DnDArgument : "not" "1"
-var l5427E437_0;
-l5427E437_0 = mouse_check_button(mb_left);
-if (!l5427E437_0)
-{
-	/// @DnDAction : YoYo Games.Common.Variable
-	/// @DnDVersion : 1
-	/// @DnDHash : 14F4AF08
-	/// @DnDInput : 3
-	/// @DnDParent : 5427E437
-	/// @DnDArgument : "expr" "global.cam_y"
-	/// @DnDArgument : "expr_1" "mouse_y"
-	/// @DnDArgument : "expr_2" "mouse_x"
-	/// @DnDArgument : "var" "Rem_cam_y"
-	/// @DnDArgument : "var_1" "Rem_mouse_y"
-	/// @DnDArgument : "var_2" "Rem_mouse_x"
-	Rem_cam_y = global.cam_y;
-	Rem_mouse_y = mouse_y;
-	Rem_mouse_x = mouse_x;
-}
-
-/// @DnDAction : YoYo Games.Mouse & Keyboard.If_Mouse_Down
-/// @DnDVersion : 1.1
 /// @DnDHash : 11F42F55
 var l11F42F55_0;
 l11F42F55_0 = mouse_check_button(mb_left);

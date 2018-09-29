@@ -4,7 +4,36 @@
     "mvc": "1.0",
     "name": "Upgrade_unit_More_Money1",
     "eventList": [
-        
+        {
+            "id": "37377c80-f07b-4fae-a54d-c1fe0118c955",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "116f13f5-7f22-4d19-bc78-149889104e8f"
+        },
+        {
+            "id": "abf314ce-f6ec-426b-84ae-aab54b4e3ef3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 8,
+            "m_owner": "116f13f5-7f22-4d19-bc78-149889104e8f"
+        },
+        {
+            "id": "30529414-1e9a-4816-a626-0b4c73535812",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "116f13f5-7f22-4d19-bc78-149889104e8f"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

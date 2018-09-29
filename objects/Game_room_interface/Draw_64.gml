@@ -30,7 +30,7 @@ for(var l31B1B4D7_2 = __dnd_lives; l31B1B4D7_2 > 0; --l31B1B4D7_2) {
 draw_set_halign(fa_left);
 draw_set_font(Start_room);
 //draw_text_transformed(room_width-250, 40, "h_speed "+ string(cos(global.direct_to_mouse*pi/180)*global.dist_to_mouse*global.max_hspeed_ballon/100), 0.5, 0.5, 0);
-draw_text_transformed(room_width-250, 60, "cam_y "+ string(global.cam_y), 0.5, 0.5, 0);
+draw_text_transformed(room_width-250, 60, "dist "+ string(global.dist_to_mouse), 0.5, 0.5, 0);
 //draw_text_transformed(room_width-250, 80, "direct "+ string(global.direct_to_mouse), 0.5, 0.5, 0);
 
 

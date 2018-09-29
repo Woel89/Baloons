@@ -1,6 +1,8 @@
 /// @description Insert description here
-if (global.Remember_Flag == 1)
-{
+
+
+
+
 hspeed = cos(global.direct_to_mouse*pi/180)*global.dist_to_mouse*global.max_hspeed_ballon/100;	
 vspeed = -1*sin(global.direct_to_mouse*pi/180)*global.dist_to_mouse*global.max_vspeed_ballon/100;
 
@@ -15,7 +17,7 @@ vspeed=global.max_vspeed_ballon;
 if (vspeed<0 && vspeed<-1*global.max_vspeed_ballon)
 vspeed=-1*global.max_vspeed_ballon;
 
-}
+
 
 
 
