@@ -2,7 +2,7 @@
 HeyZap_Publisher_ID =  "5249090b3f00dd53345b26fd5a804338";
 // paste your Heyzap publiher ID
 
-HeyZap_Mode = 1;
+HeyZap_Mode = 0;
 // 0 - normal mode (auto fetch enabled)
 // 1 - test mode
 // 2 - normal mode (auto fetch disabled)
@@ -21,11 +21,13 @@ HeyZap_Init(HeyZap_Publisher_ID,HeyZap_Mode); //start HeyZap
 
 //demo variables
 global.coins = 0;
-global.banner_width = 0;
-global.banner_height = 0;
+global.banner_width = 480;
+global.banner_height = 100;
 global.ad_loaded = 0;
 global.video_loaded = 0;
 global.reward_loaded = 0;
+global.video_shown=0;
+
 
 draw_set_halign(fa_center);
 draw_set_valign(fa_middle);

@@ -1,0 +1,1020 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+  <meta name="description" content="Javadoc API documentation for AppLovin Android SDK 8.1.3." />
+
+<link rel="shortcut icon" type="image/x-icon" href="../../../favicon.ico" />
+<title>
+
+  AppLovinLogger
+
+
+| AppLovin Android SDK 8.1.3
+
+</title>
+<link href="../../../../assets/doclava-developer-docs.css" rel="stylesheet" type="text/css" />
+<link href="../../../../assets/customizations.css" rel="stylesheet" type="text/css" />
+<script src="../../../../assets/search_autocomplete.js" type="text/javascript"></script>
+<script src="../../../../assets/jquery-resizable.min.js" type="text/javascript"></script>
+<script src="../../../../assets/doclava-developer-docs.js" type="text/javascript"></script>
+<script src="../../../../assets/prettify.js" type="text/javascript"></script>
+<script type="text/javascript">
+  setToRoot("../../../", "../../../../assets/");
+</script>
+<script src="../../../../assets/doclava-developer-reference.js" type="text/javascript"></script>
+<script src="../../../../assets/navtree_data.js" type="text/javascript"></script>
+<script src="../../../../assets/customizations.js" type="text/javascript"></script>
+<noscript>
+  <style type="text/css">
+    html,body{overflow:auto;}
+    #body-content{position:relative; top:0;}
+    #doc-content{overflow:visible;border-left:3px solid #666;}
+    #side-nav{padding:0;}
+    #side-nav .toggle-list ul {display:block;}
+    #resize-packages-nav{border-bottom:3px solid #666;}
+  </style>
+</noscript>
+</head>
+
+<body class="">
+
+<div id="header">
+    <div id="headerLeft">
+    
+      <span id="masthead-title">AppLovin Android SDK 8.1.3</span>
+    
+    </div>
+    <div id="headerRight">
+      
+  <div id="search" >
+      <div id="searchForm">
+          <form accept-charset="utf-8" class="gsc-search-box" 
+                onsubmit="return submit_search()">
+            <table class="gsc-search-box" cellpadding="0" cellspacing="0"><tbody>
+                <tr>
+                  <td class="gsc-input">
+                    <input id="search_autocomplete" class="gsc-input" type="text" size="33" autocomplete="off"
+                      title="search developer docs" name="q"
+                      value="search developer docs"
+                      onFocus="search_focus_changed(this, true)"
+                      onBlur="search_focus_changed(this, false)"
+                      onkeydown="return search_changed(event, true, '../../../')"
+                      onkeyup="return search_changed(event, false, '../../../')" />
+                  <div id="search_filtered_div" class="no-display">
+                      <table id="search_filtered" cellspacing=0>
+                      </table>
+                  </div>
+                  </td>
+                  <td class="gsc-search-button">
+                    <input type="submit" value="Search" title="search" id="search-button" class="gsc-search-button" />
+                  </td>
+                  <td class="gsc-clear-button">
+                    <div title="clear results" class="gsc-clear-button">&nbsp;</div>
+                  </td>
+                </tr></tbody>
+              </table>
+          </form>
+      </div><!-- searchForm -->
+  </div><!-- search -->
+      
+    </div>
+</div><!-- header -->
+
+
+  <div class="g-section g-tpl-240" id="body-content">
+    <div class="g-unit g-first side-nav-resizable" id="side-nav">
+      <div id="swapper">
+        <div id="nav-panels">
+          <div id="resize-packages-nav">
+            <div id="packages-nav">
+              <div id="index-links">
+                <a href="../../../packages.html"  >Package Index</a> | 
+                <a href="../../../classes.html" >Class Index</a>
+              </div>
+              <ul>
+                
+    <li class="api apilevel-">
+  <a href="../../../com/applovin/adview/package-summary.html">com.applovin.adview</a></li>
+    <li class="api apilevel-">
+  <a href="../../../com/applovin/mediation/package-summary.html">com.applovin.mediation</a></li>
+    <li class="api apilevel-">
+  <a href="../../../com/applovin/nativeAds/package-summary.html">com.applovin.nativeAds</a></li>
+    <li class="selected api apilevel-">
+  <a href="../../../com/applovin/sdk/package-summary.html">com.applovin.sdk</a></li>
+              </ul><br/>
+            </div> <!-- end packages -->
+          </div> <!-- end resize-packages -->
+          <div id="classes-nav">
+            <ul>
+              
+    <li><h2>Interfaces</h2>
+      <ul>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinAd.html">AppLovinAd</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinAdClickListener.html">AppLovinAdClickListener</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinAdDisplayListener.html">AppLovinAdDisplayListener</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinAdLoadListener.html">AppLovinAdLoadListener</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinAdRewardListener.html">AppLovinAdRewardListener</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinAdService.html">AppLovinAdService</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinAdUpdateListener.html">AppLovinAdUpdateListener</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinAdVideoPlaybackListener.html">AppLovinAdVideoPlaybackListener</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinEventService.html">AppLovinEventService</a></li>
+          <li class="selected api apilevel-"><a href="../../../com/applovin/sdk/AppLovinLogger.html">AppLovinLogger</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinMediationService.html">AppLovinMediationService</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinPostbackListener.html">AppLovinPostbackListener</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinPostbackService.html">AppLovinPostbackService</a></li>
+      </ul>
+    </li>
+              
+    <li><h2>Classes</h2>
+      <ul>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinAdSize.html">AppLovinAdSize</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinAdType.html">AppLovinAdType</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinErrorCodes.html">AppLovinErrorCodes</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinEventParameters.html">AppLovinEventParameters</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinEventTypes.html">AppLovinEventTypes</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinMediationProvider.html">AppLovinMediationProvider</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinPrivacySettings.html">AppLovinPrivacySettings</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinSdk.html">AppLovinSdk</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinSdkSettings.html">AppLovinSdkSettings</a></li>
+          <li class="api apilevel-"><a href="../../../com/applovin/sdk/AppLovinSdkUtils.html">AppLovinSdkUtils</a></li>
+      </ul>
+    </li>
+              
+              
+              
+              
+            </ul><br/>
+          </div><!-- end classes -->
+        </div><!-- end nav-panels -->
+        <div id="nav-tree" style="display:none">
+          <div id="index-links">
+            <a href="../../../packages.html"  >Package Index</a> | 
+            <a href="../../../classes.html" >Class Index</a>
+          </div>
+        </div><!-- end nav-tree -->
+      </div><!-- end swapper -->
+    </div> <!-- end side-nav -->
+    <script>
+      if (!isMobile) {
+        $("<a href='#' id='nav-swap' onclick='swapNav();return false;' style='font-size:10px;line-height:9px;margin-left:1em;text-decoration:none;'><span id='tree-link'>Use Tree Navigation</span><span id='panel-link' style='display:none'>Use Panel Navigation</span></a>").appendTo("#side-nav");
+        chooseDefaultNav();
+        if ($("#nav-tree").is(':visible')) {
+          init_default_navtree("../../../");
+        } else {
+          addLoadEvent(function() {
+            scrollIntoView("packages-nav");
+            scrollIntoView("classes-nav");
+          });
+        }
+        $("#swapper").css({borderBottom:"2px solid #aaa"});
+      } else {
+        swapNav(); // tree view should be used on mobile
+      }
+    </script>
+
+
+
+<div class="g-unit" id="doc-content">
+
+<div id="api-info-block">
+
+
+
+
+<div class="sum-details-links">
+
+
+</div><!-- end sum-details-links -->
+<div class="api-level">
+  
+
+
+  
+  
+
+</div>
+</div><!-- end api-info-block -->
+
+
+<!-- ======== START OF CLASS DATA ======== -->
+
+<div id="jd-header">
+    public
+     
+     
+    
+    interface
+<h1>AppLovinLogger</h1>
+
+
+
+  
+  
+  
+
+
+</div><!-- end header -->
+
+<div id="naMessage"></div>
+
+<div id="jd-content" class="api apilevel-">
+<table class="jd-inheritance-table">
+
+
+    <tr>
+         	
+        <td colspan="1" class="jd-inheritance-class-cell">com.applovin.sdk.AppLovinLogger</td>
+    </tr>
+    
+
+</table>
+
+
+
+
+
+
+
+<div class="jd-descr">
+
+
+<h2>Class Overview</h2>
+<p>This is an interface for a logger used by the AppLovin SDK.
+ <p>
+ <p>
+ <b>Please note:</b> This class is for internal use only.
+ </p></p>
+
+
+
+
+
+</div><!-- jd-descr -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="jd-descr">
+
+
+<h2>Summary</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- =========== ENUM CONSTANT SUMMARY =========== -->
+<table id="constants" class="jd-sumtable"><tr><th colspan="12">Constants</th></tr>
+
+
+    
+    <tr class="alt-color api apilevel-" >
+        <td class="jd-typecol">String</td>
+        <td class="jd-linkcol"><a href="../../../com/applovin/sdk/AppLovinLogger.html#SDK_TAG">SDK_TAG</a></td>
+        <td class="jd-descrcol" width="100%">This is a tag that is used for all AppLovin SDK log message.</td>
+    </tr>
+    
+    
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- ========== METHOD SUMMARY =========== -->
+<table id="pubmethods" class="jd-sumtable"><tr><th colspan="12">Public Methods</th></tr>
+
+
+
+	 
+    <tr class="alt-color api apilevel-" >
+        <td class="jd-typecol">
+            abstract
+            
+            
+            
+            
+            void
+        </td>
+        <td class="jd-linkcol" width="100%">
+        <span class="sympad"><a href="../../../com/applovin/sdk/AppLovinLogger.html#d(java.lang.String, java.lang.String)">d</a></span>(String source, String message)
+        
+        <div class="jd-descrdiv">Log a debug message.</div>
+  
+  </td></tr>
+
+
+	 
+    <tr class=" api apilevel-" >
+        <td class="jd-typecol">
+            abstract
+            
+            
+            
+            
+            void
+        </td>
+        <td class="jd-linkcol" width="100%">
+        <span class="sympad"><a href="../../../com/applovin/sdk/AppLovinLogger.html#e(java.lang.String, java.lang.String)">e</a></span>(String source, String message)
+        
+        <div class="jd-descrdiv">Log an error.</div>
+  
+  </td></tr>
+
+
+	 
+    <tr class="alt-color api apilevel-" >
+        <td class="jd-typecol">
+            abstract
+            
+            
+            
+            
+            void
+        </td>
+        <td class="jd-linkcol" width="100%">
+        <span class="sympad"><a href="../../../com/applovin/sdk/AppLovinLogger.html#e(java.lang.String, java.lang.String, java.lang.Throwable)">e</a></span>(String source, String message, Throwable error)
+        
+        <div class="jd-descrdiv">Log an error.</div>
+  
+  </td></tr>
+
+
+	 
+    <tr class=" api apilevel-" >
+        <td class="jd-typecol">
+            abstract
+            
+            
+            
+            
+            void
+        </td>
+        <td class="jd-linkcol" width="100%">
+        <span class="sympad"><a href="../../../com/applovin/sdk/AppLovinLogger.html#i(java.lang.String, java.lang.String)">i</a></span>(String source, String message)
+        
+        <div class="jd-descrdiv">Log an information message.</div>
+  
+  </td></tr>
+
+
+	 
+    <tr class="alt-color api apilevel-" >
+        <td class="jd-typecol">
+            abstract
+            
+            
+            
+            
+            void
+        </td>
+        <td class="jd-linkcol" width="100%">
+        <span class="sympad"><a href="../../../com/applovin/sdk/AppLovinLogger.html#userError(java.lang.String, java.lang.String, java.lang.Throwable)">userError</a></span>(String source, String message, Throwable error)
+        
+        <div class="jd-descrdiv">Log an error that was produced by a user.</div>
+  
+  </td></tr>
+
+
+	 
+    <tr class=" api apilevel-" >
+        <td class="jd-typecol">
+            abstract
+            
+            
+            
+            
+            void
+        </td>
+        <td class="jd-linkcol" width="100%">
+        <span class="sympad"><a href="../../../com/applovin/sdk/AppLovinLogger.html#userError(java.lang.String, java.lang.String)">userError</a></span>(String source, String message)
+        
+        <div class="jd-descrdiv">Log an error that was produced by a user.</div>
+  
+  </td></tr>
+
+
+	 
+    <tr class="alt-color api apilevel-" >
+        <td class="jd-typecol">
+            abstract
+            
+            
+            
+            
+            void
+        </td>
+        <td class="jd-linkcol" width="100%">
+        <span class="sympad"><a href="../../../com/applovin/sdk/AppLovinLogger.html#w(java.lang.String, java.lang.String, java.lang.Throwable)">w</a></span>(String source, String message, Throwable th)
+        
+        <div class="jd-descrdiv">Log a warning.</div>
+  
+  </td></tr>
+
+
+	 
+    <tr class=" api apilevel-" >
+        <td class="jd-typecol">
+            abstract
+            
+            
+            
+            
+            void
+        </td>
+        <td class="jd-linkcol" width="100%">
+        <span class="sympad"><a href="../../../com/applovin/sdk/AppLovinLogger.html#w(java.lang.String, java.lang.String)">w</a></span>(String source, String message)
+        
+        <div class="jd-descrdiv">Log a warning.</div>
+  
+  </td></tr>
+
+
+
+</table>
+
+
+
+
+
+
+
+</div><!-- jd-descr (summary) -->
+
+<!-- Details -->
+
+
+
+
+
+
+
+
+<!-- XML Attributes -->
+
+
+<!-- Enum Values -->
+
+
+<!-- Constants -->
+
+
+<!-- ========= ENUM CONSTANTS DETAIL ======== -->
+<h2>Constants</h2>
+
+
+
+
+<a id="SDK_TAG"></a>
+
+<div class="jd-details api apilevel-"> 
+    <h4 class="jd-details-title">
+      <span class="normal">
+        public 
+        static 
+        final 
+        String
+      </span>
+        SDK_TAG
+    </h4>
+      <div class="api-level">
+        
+
+
+        
+  
+
+      </div>
+    <div class="jd-details-descr">
+      
+  <div class="jd-tagdata jd-tagdescr"><p>This is a tag that is used for all AppLovin SDK log message. Tag's value is <code>AppLovinSdk</code>.
+</p></div>
+
+    
+        <div class="jd-tagdata">
+        <span class="jd-tagtitle">Constant Value: </span>
+        <span>
+            
+                "AppLovinSdk"
+            
+        </span>
+        </div>
+    
+    </div>
+</div>
+
+
+
+
+<!-- Fields -->
+
+
+<!-- Public ctors -->
+
+
+
+<!-- ========= CONSTRUCTOR DETAIL ======== -->
+<!-- Protected ctors -->
+
+
+
+<!-- ========= METHOD DETAIL ======== -->
+<!-- Public methdos -->
+
+<h2>Public Methods</h2>
+
+
+
+<a id="d(java.lang.String, java.lang.String)"></a>
+
+<div class="jd-details api apilevel-"> 
+    <h4 class="jd-details-title">
+      <span class="normal">
+        public 
+         
+         
+        abstract 
+         
+        void
+      </span>
+      <span class="sympad">d</span>
+      <span class="normal">(String source, String message)</span>
+    </h4>
+      <div class="api-level">
+        <div>
+
+</div>
+        
+  
+
+      </div>
+    <div class="jd-details-descr">
+      
+  <div class="jd-tagdata jd-tagdescr"><p>Log a debug message.</p></div>
+  <div class="jd-tagdata">
+      <h5 class="jd-tagtitle">Parameters</h5>
+      <table class="jd-tagtable">
+        <tr>
+          <th>source</th>
+          <td>Message source (class name or tag).</td>
+        </tr>
+        <tr>
+          <th>message</th>
+          <td>Actual message.
+</td>
+        </tr>
+      </table>
+  </div>
+
+    </div>
+</div>
+
+
+<a id="e(java.lang.String, java.lang.String)"></a>
+
+<div class="jd-details api apilevel-"> 
+    <h4 class="jd-details-title">
+      <span class="normal">
+        public 
+         
+         
+        abstract 
+         
+        void
+      </span>
+      <span class="sympad">e</span>
+      <span class="normal">(String source, String message)</span>
+    </h4>
+      <div class="api-level">
+        <div>
+
+</div>
+        
+  
+
+      </div>
+    <div class="jd-details-descr">
+      
+  <div class="jd-tagdata jd-tagdescr"><p>Log an error. Note that logged error will be save and later submitted to AppLovin server for further analysis.</p></div>
+  <div class="jd-tagdata">
+      <h5 class="jd-tagtitle">Parameters</h5>
+      <table class="jd-tagtable">
+        <tr>
+          <th>source</th>
+          <td>Error source (class name or tag).</td>
+        </tr>
+        <tr>
+          <th>message</th>
+          <td>Error message.
+</td>
+        </tr>
+      </table>
+  </div>
+
+    </div>
+</div>
+
+
+<a id="e(java.lang.String, java.lang.String, java.lang.Throwable)"></a>
+
+<div class="jd-details api apilevel-"> 
+    <h4 class="jd-details-title">
+      <span class="normal">
+        public 
+         
+         
+        abstract 
+         
+        void
+      </span>
+      <span class="sympad">e</span>
+      <span class="normal">(String source, String message, Throwable error)</span>
+    </h4>
+      <div class="api-level">
+        <div>
+
+</div>
+        
+  
+
+      </div>
+    <div class="jd-details-descr">
+      
+  <div class="jd-tagdata jd-tagdescr"><p>Log an error. Note that logged error will be save and later submitted to AppLovin server for further analysis.</p></div>
+  <div class="jd-tagdata">
+      <h5 class="jd-tagtitle">Parameters</h5>
+      <table class="jd-tagtable">
+        <tr>
+          <th>source</th>
+          <td>Error source (class name or tag).</td>
+        </tr>
+        <tr>
+          <th>message</th>
+          <td>Error message.</td>
+        </tr>
+        <tr>
+          <th>error</th>
+          <td>A throwable associated with the error.
+</td>
+        </tr>
+      </table>
+  </div>
+
+    </div>
+</div>
+
+
+<a id="i(java.lang.String, java.lang.String)"></a>
+
+<div class="jd-details api apilevel-"> 
+    <h4 class="jd-details-title">
+      <span class="normal">
+        public 
+         
+         
+        abstract 
+         
+        void
+      </span>
+      <span class="sympad">i</span>
+      <span class="normal">(String source, String message)</span>
+    </h4>
+      <div class="api-level">
+        <div>
+
+</div>
+        
+  
+
+      </div>
+    <div class="jd-details-descr">
+      
+  <div class="jd-tagdata jd-tagdescr"><p>Log an information message.</p></div>
+  <div class="jd-tagdata">
+      <h5 class="jd-tagtitle">Parameters</h5>
+      <table class="jd-tagtable">
+        <tr>
+          <th>source</th>
+          <td>Message source (class name or tag).</td>
+        </tr>
+        <tr>
+          <th>message</th>
+          <td>Actual message.
+</td>
+        </tr>
+      </table>
+  </div>
+
+    </div>
+</div>
+
+
+<a id="userError(java.lang.String, java.lang.String, java.lang.Throwable)"></a>
+
+<div class="jd-details api apilevel-"> 
+    <h4 class="jd-details-title">
+      <span class="normal">
+        public 
+         
+         
+        abstract 
+         
+        void
+      </span>
+      <span class="sympad">userError</span>
+      <span class="normal">(String source, String message, Throwable error)</span>
+    </h4>
+      <div class="api-level">
+        <div>
+
+</div>
+        
+  
+
+      </div>
+    <div class="jd-details-descr">
+      
+  <div class="jd-tagdata jd-tagdescr"><p>Log an error that was produced by a user. A user in this context is someone who is integrating AppLovin SDK into an appliction.
+ <p>
+ <p>
+ User errors would be most likely a configuration problem or any other issue that could be resolved by developer's fix.
+ <p>
+ <p>
+ This message will be logged into logcat despite verbosity level.</p></div>
+  <div class="jd-tagdata">
+      <h5 class="jd-tagtitle">Parameters</h5>
+      <table class="jd-tagtable">
+        <tr>
+          <th>source</th>
+          <td>Error source (class name or tag).</td>
+        </tr>
+        <tr>
+          <th>message</th>
+          <td>Error message.</td>
+        </tr>
+        <tr>
+          <th>error</th>
+          <td>Exception that caused the error.
+</td>
+        </tr>
+      </table>
+  </div>
+
+    </div>
+</div>
+
+
+<a id="userError(java.lang.String, java.lang.String)"></a>
+
+<div class="jd-details api apilevel-"> 
+    <h4 class="jd-details-title">
+      <span class="normal">
+        public 
+         
+         
+        abstract 
+         
+        void
+      </span>
+      <span class="sympad">userError</span>
+      <span class="normal">(String source, String message)</span>
+    </h4>
+      <div class="api-level">
+        <div>
+
+</div>
+        
+  
+
+      </div>
+    <div class="jd-details-descr">
+      
+  <div class="jd-tagdata jd-tagdescr"><p>Log an error that was produced by a user. A user in this context is someone who is integrating AppLovin SDK into an appliction.
+ <p>
+ <p>
+ User errors would be most likely a configuration problem or any other issue that could be resolved by developer's fix.
+ <p>
+ <p>
+ This message will be logged into logcat despite verbosity level.</p></div>
+  <div class="jd-tagdata">
+      <h5 class="jd-tagtitle">Parameters</h5>
+      <table class="jd-tagtable">
+        <tr>
+          <th>source</th>
+          <td>Error source (class name or tag).</td>
+        </tr>
+        <tr>
+          <th>message</th>
+          <td>Error message.
+</td>
+        </tr>
+      </table>
+  </div>
+
+    </div>
+</div>
+
+
+<a id="w(java.lang.String, java.lang.String, java.lang.Throwable)"></a>
+
+<div class="jd-details api apilevel-"> 
+    <h4 class="jd-details-title">
+      <span class="normal">
+        public 
+         
+         
+        abstract 
+         
+        void
+      </span>
+      <span class="sympad">w</span>
+      <span class="normal">(String source, String message, Throwable th)</span>
+    </h4>
+      <div class="api-level">
+        <div>
+
+</div>
+        
+  
+
+      </div>
+    <div class="jd-details-descr">
+      
+  <div class="jd-tagdata jd-tagdescr"><p>Log a warning.</p></div>
+  <div class="jd-tagdata">
+      <h5 class="jd-tagtitle">Parameters</h5>
+      <table class="jd-tagtable">
+        <tr>
+          <th>source</th>
+          <td>Warning source (class name or tag).</td>
+        </tr>
+        <tr>
+          <th>message</th>
+          <td>Actual warning.</td>
+        </tr>
+        <tr>
+          <th>th</th>
+          <td>A throwable associated with the warning.
+</td>
+        </tr>
+      </table>
+  </div>
+
+    </div>
+</div>
+
+
+<a id="w(java.lang.String, java.lang.String)"></a>
+
+<div class="jd-details api apilevel-"> 
+    <h4 class="jd-details-title">
+      <span class="normal">
+        public 
+         
+         
+        abstract 
+         
+        void
+      </span>
+      <span class="sympad">w</span>
+      <span class="normal">(String source, String message)</span>
+    </h4>
+      <div class="api-level">
+        <div>
+
+</div>
+        
+  
+
+      </div>
+    <div class="jd-details-descr">
+      
+  <div class="jd-tagdata jd-tagdescr"><p>Log a warning.</p></div>
+  <div class="jd-tagdata">
+      <h5 class="jd-tagtitle">Parameters</h5>
+      <table class="jd-tagtable">
+        <tr>
+          <th>source</th>
+          <td>Warning source (class name or tag).</td>
+        </tr>
+        <tr>
+          <th>message</th>
+          <td>Actual warning.
+</td>
+        </tr>
+      </table>
+  </div>
+
+    </div>
+</div>
+
+
+
+
+
+<!-- ========= METHOD DETAIL ======== -->
+
+
+
+<!-- ========= END OF CLASS DATA ========= -->
+<a id="navbar_top"></a>
+
+<div id="footer">
+Generated by <a href="http://code.google.com/p/doclava/">Doclava</a>.
+</div> <!-- end footer -->
+
+</div> <!-- jd-content -->
+
+</div><!-- end doc-content -->
+
+</div> <!-- end body-content --> 
+
+<script type="text/javascript">
+init(); /* initialize doclava-developer-docs.js */
+</script>
+
+</body>
+</html>

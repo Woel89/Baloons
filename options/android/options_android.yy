@@ -3,12 +3,12 @@
     "modelName": "GMAndroidOptions",
     "mvc": "1.0",
     "name": "Android",
-    "option_android_arch_arm64": false,
+    "option_android_arch_arm64": true,
     "option_android_arch_armv5": true,
     "option_android_arch_armv7": true,
     "option_android_arch_mips": true,
     "option_android_arch_x86": true,
-    "option_android_arch_x86_64": false,
+    "option_android_arch_x86_64": true,
     "option_android_build_tools": "27.0.0",
     "option_android_compile_sdk": "27",
     "option_android_device_support": 0,
@@ -63,8 +63,8 @@
     "option_android_tv_isgame": true,
     "option_android_use_facebook": false,
     "option_android_version": {
-        "build": 0,
-        "major": 1,
+        "build": 1,
+        "major": 0,
         "minor": 0,
         "revision": 0
     }

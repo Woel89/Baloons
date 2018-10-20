@@ -14,4 +14,4 @@ Rem_mouse_x=mouse_x;
 
 
 if global.livess==0
-room_goto(Upgrade_rooms);
+room_goto(room0);

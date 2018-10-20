@@ -11,6 +11,7 @@ global.starttext_front_cloour = c_orange
 //Game room
   ///Money
 global.Money = 0;
+global.Money_Reward = 0;
 global.Moneytext = "Money" 
 global.Moneytext_back_cloour = c_black
 global.Moneytext_front_cloour = c_orange

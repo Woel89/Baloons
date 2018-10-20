@@ -1,5 +1,6 @@
 1.0.0←ed6a955d-5826-4f98-a450-10b414266c27←ed6a955d-5826-4f98-a450-10b414266c27|{
-    "option_gameguid": "{5668CF69-A2AC-4C88-B92C-DD738F3EEDD9}"
+    "option_gameguid": "{5668CF69-A2AC-4C88-B92C-DD738F3EEDD9}",
+    "addon_google_play_services": "8294e506-9f5c-4312-8ad7-801fc1b71899;,GoogleMobileAds_Init;GoogleMobileAds_ShowInterstitial;GoogleMobileAds_LoadInterstitial;GoogleMobileAds_InterstitialStatus;GoogleMobileAds_AddBanner;GoogleMobileAds_RemoveBanner;GoogleMobileAds_MoveBanner;GoogleMobileAds_BannerGetWidth;GoogleMobileAds_BannerGetHeight;GoogleMobileAds_UseTestAds;GoogleMobileAds_AddBannerAt;GoogleMobileAds_LoadRewardedVideo;GoogleMobileAds_ShowRewardedVideo;GoogleMobileAds_RewardedVideoStatus;GoogleMobileAds_HideBanner;GoogleMobileAds_ShowBanner;GoogleMobileAds_ConsentUpdate;GoogleMobileAds_ConsentFormShow;GoogleMobileAds_ConsentSetUserUnderAge;GoogleMobileAds_ConsentIsUserUnderAge;GoogleMobileAds_ConsentIsUserInEEA;GoogleMobileAds_ConsentDebugAddDevice;GoogleMobileAds_ConsentDebugSetDeviceInEEA;GoogleMobileAds_ConsentGetAllowPersonalizedAds;GoogleMobileAds_ConsentSetAllowPersonalizedAds;GooglePlayServices_Status;GooglePlayServices_Init;#"
 }←1225f6b0-ac20-43bd-a82e-be73fa0b6f4f|{
     "scaled": false,
     "targets": 461609314234257646
