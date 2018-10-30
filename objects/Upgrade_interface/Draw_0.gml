@@ -47,8 +47,8 @@ draw_text_transformed(room_width/2-2, 415, "More life", 1.7, 1.7, 0);
 draw_set_halign(fa_center);
 draw_set_font(Start_room);
 draw_set_colour(global.starttext_back_cloour);
-draw_text_transformed(room_width/2, room_height-130, global.Moneytext+" "+ string(global.Money), 1, 1, 0);
+draw_text_transformed(room_width/2, room_height-120, global.Moneytext+" "+ string(global.Money), 1, 1, 0);
 draw_set_colour(global.starttext_front_cloour);
-draw_text_transformed(room_width/2-2, room_height-130, global.Moneytext+" "+ string(global.Money), 1, 1, 0);
+draw_text_transformed(room_width/2-2, room_height-120, global.Moneytext+" "+ string(global.Money), 1, 1, 0);
 
 

@@ -43,9 +43,14 @@ if (global.godmode==0){
 time = date_current_datetime();}
 if (global.godmode==1)
 {	sprite_index=Baloon_blink;
+	if image_alpha > 0.95
+	image_alpha=image_alpha-0.3;
+	if image_alpha < 0.3
+	image_alpha=image_alpha+0.3;
 	if (date_second_span(time, date_current_datetime()) > 5) 
 	{
 	sprite_index=Baloon_red;
+	image_alpha=1;
 	global.godmode=0;
 	} 
 

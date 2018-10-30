@@ -1,3 +1,4 @@
+draw_set_font(Reklama);
 if (isGdprConsentGiven) {
     draw_set_color(c_green);
     draw_text(room_width/2, 30, string_hash_to_newline("GDPR Consent received#Personalized ads available"));
